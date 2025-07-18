@@ -1,0 +1,9 @@
+streamlit
+opencv-python
+easyocr
+numpy
+Pillow
+sympy
+requests
+transformers
+torch
