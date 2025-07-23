@@ -58,7 +58,7 @@ You can ask it anything—from your current location, weather, or time—to perf
 
 ## 🔄 Why I Switched Some Libraries
 
-| Library             | Switched From → To       |                                                                |
+| Library             | Reason      |                                                                |
 |---------------------|--------------------------|------------------------------------------------------------------------|
 | `pyaudio` → `sounddevice` + `soundfile` | `pyaudio` is hard to install on some Windows setups; switched for smoother install |
 | `gTTS` → `pyttsx3`  | `gTTS` requires internet and has latency; `pyttsx3` works offline and faster |
