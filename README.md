@@ -10,7 +10,7 @@
 
 ## 🚀 Project Overview
 
-**Jarvis-CV** is an intelligent, voice-based personal assistant that responds to your spoken queries and commands. Powered by **NLP**, **TTS**, **speech recognition**, and **computer vision**, this assistant mimics the early behavior of Jarvis from Iron Man.
+**Jarvis-CV** is an intelligent, voice-based personal assistant that responds to your spoken queries and commands. Powered by **NLP**, **TTS**, **speech recognition**, and **computer vision**
 
 You can ask it anything—from your current location, weather, or time—to performing tasks like opening a website, searching Wikipedia, or identifying objects using your webcam.
 
@@ -23,7 +23,6 @@ You can ask it anything—from your current location, weather, or time—to perf
 - 🔊 Voice-controlled input (no keyboard needed!)
 - 🤖 NLP-powered conversation with OpenAI
 - 🎤 Text-to-speech response
-- 🧠 Emotionally adaptive replies
 - 🌐 Internet search and Wikipedia summarization
 - 📸 Real-time object detection with computer vision (OpenCV)
 - 📁 Clean and minimal Streamlit web UI
@@ -67,16 +66,4 @@ You can ask it anything—from your current location, weather, or time—to perf
 
 ---
 
-## 📷 Screenshots (Optional)
 
-> *(Add screenshots of your UI or terminal if you want to make it visually impressive)*
-
----
-
-## 📦 Installation
-
-```bash
-git clone https://github.com/KUKRETI07/jarvis_cv.git
-cd jarvis_cv
-pip install -r requirements.txt
-streamlit run app.py
